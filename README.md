@@ -1,5 +1,8 @@
 ## Hi there 👋
 
+### 📊 GitHub Stats
+![HansZ8's GitHub stats](https://github-readme-stats-umber-kappa-88.vercel.app/api?username=HansZ8&show_icons=true)
+
 <!--
 **GDDG08/GDDG08** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
