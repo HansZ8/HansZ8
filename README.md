@@ -25,14 +25,15 @@
 <!-- ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=HansZ8&show_icons=true&theme=tokyonight) -->
 ![HansZ8's GitHub stats](https://github-readme-stats-umber-kappa-88.vercel.app/api?username=HansZ8&show_icons=true)
 ![HansZ8's Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=HansZ8&layout=compact)
-
+<!--
 ---
 
 ### 🔥 Activity
+-->
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/HansZ8/HansZ8/refs/heads/snk-output/github-contribution-grid-snake-dark.svg" />
   <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/HansZ8/HansZ8/refs/heads/snk-output/github-contribution-grid-snake.svg" />
-  <img alt="github-snake" src="https://raw.githubusercontent.com/HansZ8/HansZ8/refs/heads/snk-output/github-contribution-grid-snake.svg" />
+  <img alt="github-snake" src="https://raw.githubusercontent.com/HansZ8/HansZ8/refs/heads/snk-output/github-contribution-grid-snake.svg" width="600"/>
 </picture>
 
 
