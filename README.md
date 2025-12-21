@@ -1,10 +1,43 @@
-## Hi there 👋
+## Hi, I'm Hans 👋
 
-### 📊 GitHub Stats
-![HansZ8's GitHub stats](https://github-readme-stats-umber-kappa-88.vercel.app/api?username=HansZ8&show_icons=true)
+<!-- 🎓 Fudan University -->
+
+🌱 Member of [OpenMOSS](https://openmoss.github.io/) and [Humanoid Intelligence](https://github.com/humanoidintelligence)
+
+🤖 Interests: MLLMs and Robotics
+
+💡 Open-source enthusiast & builder
+
+📫 Reach me at: hans_zhuang@outlook.com
 
 <!--
-**GDDG08/GDDG08** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+---
+
+### 🧩 Tech & Focus
+![Machine Learning](https://img.shields.io/badge/Machine-Learning-orange)
+![Robotics](https://img.shields.io/badge/Humanoid-Robotics-blueviolet)
+![C++](https://img.shields.io/badge/C++-00599C?logo=cplusplus)
+![Python](https://img.shields.io/badge/Python-3776AB?logo=python)
+--->
+---
+
+### 📊 GitHub Stats
+<!-- ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=HansZ8&show_icons=true&theme=tokyonight) -->
+![HansZ8's GitHub stats](https://github-readme-stats-umber-kappa-88.vercel.app/api?username=HansZ8&show_icons=true)
+![HansZ8's Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=HansZ8&layout=compact)
+
+---
+
+### 🔥 Activity
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/HansZ8/HansZ8/refs/heads/snk-output/github-contribution-grid-snake-dark.svg" />
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/HansZ8/HansZ8/refs/heads/snk-output/github-contribution-grid-snake.svg" />
+  <img alt="github-snake" src="https://raw.githubusercontent.com/HansZ8/HansZ8/refs/heads/snk-output/github-contribution-grid-snake.svg" />
+</picture>
+
+
+<!--
+**HansZ8/HansZ8** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 Here are some ideas to get you started:
 
