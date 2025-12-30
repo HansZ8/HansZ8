@@ -24,7 +24,7 @@
 ### 📊 GitHub Stats
 <!-- ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=HansZ8&show_icons=true&theme=tokyonight) -->
 ![HansZ8's GitHub stats](https://github-readme-stats-umber-kappa-88.vercel.app/api?username=HansZ8&show_icons=true)
-![HansZ8's Top Langs](https://github-readme-stats-public-gddg08s-projects.vercel.app/api/top-langs/?layout=compact&username=HansZ8)
+![HansZ8's Top Langs](https://github-readme-stats-public-brsybq42c-gddg08s-projects.vercel.app/api/top-langs/?layout=compact&username=HansZ8)
 <!--
 ---
 
