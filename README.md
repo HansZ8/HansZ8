@@ -4,11 +4,11 @@
 
 🌱 Member of [FudanNLP Lab](https://nlp.fudan.edu.cn/) and [OpenMOSS](https://openmoss.github.io/)
 
-🧠 Working on LLM post-training and coding agents
+🧠 Working on: LLM post-training and coding agents
 
-🤖 Interested in agentic systems and robotics
+🤖 Interests: agentic systems and robotics
 
-💡 Open-source enthusiast & systems builder
+💡 Open-source enthusiast & builder
 
 📫 Reach me at: hans_zhuang@outlook.com
 
