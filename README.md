@@ -2,11 +2,13 @@
 
 <!-- 🎓 Fudan University -->
 
-🌱 Member of [OpenMOSS](https://openmoss.github.io/) and [Humanoid Intelligence](https://github.com/humanoidintelligence)
+🌱 Member of [FudanNLP Lab](https://nlp.fudan.edu.cn/) and [OpenMOSS](https://openmoss.github.io/)
 
-🤖 Interests: MLLMs and Robotics
+🧠 Working on LLM post-training and coding agents
 
-💡 Open-source enthusiast & builder
+🤖 Interested in agentic systems and robotics
+
+💡 Open-source enthusiast & systems builder
 
 📫 Reach me at: hans_zhuang@outlook.com
 
